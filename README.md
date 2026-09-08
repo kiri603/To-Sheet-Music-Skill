@@ -18,11 +18,11 @@ These excerpts show representative bars from three generated five-piece arrangem
 
 ![Score excerpt from the Beyond arrangement of 海阔天空](assets/score-previews/beyond.png)
 
-### Koe — 声
+### Alia — 声
 
 ![Score excerpt from the Koe arrangement of 声](assets/score-previews/koe.png)
 
-### Haruhikage — 春日影
+### Mygo — 春日影
 
 ![Score excerpt from the Haruhikage arrangement of 春日影](assets/score-previews/haruhikage.png)
 
