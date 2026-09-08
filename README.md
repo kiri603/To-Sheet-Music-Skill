@@ -12,9 +12,9 @@ It combines time-aligned source separation, musical analysis, practical arrangin
 
 ## Demo
 
-[▶ Watch the workflow demo](assets/demo.mp4)
+[▶ Watch the lightweight preview](assets/demo-preview.mp4) · [Download the original recording](https://raw.githubusercontent.com/kiri603/To-Sheet-Music-Skill/main/assets/demo.mp4)
 
-The current demo is an initial screen recording. It is included as a placeholder and can be replaced with a polished end-to-end example later.
+The preview is intentionally compressed so it can be opened more reliably from GitHub's web interface. The original screen recording is kept available for download and can be replaced with a polished end-to-end example later.
 
 ## Contents
 
@@ -168,7 +168,8 @@ Working files may also include `manifest.json`, separated WAV stems, analysis no
 ├── assets/
 │   ├── band-style.mss               # MuseScore page/style settings
 │   ├── band-template.mscx           # Empty five-part score template
-│   └── demo.mp4                     # Initial workflow demonstration
+│   ├── demo-preview.mp4              # Lightweight README preview
+│   └── demo.mp4                     # Original workflow demonstration
 ├── references/
 │   ├── arranging.md                 # Transcription and playability rules
 │   ├── notation-and-qa.md           # Score standards and acceptance checks
