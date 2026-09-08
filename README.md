@@ -10,14 +10,25 @@ It combines time-aligned source separation, musical analysis, practical arrangin
 > [!NOTE]
 > This is an agent skill, not a standalone desktop application. It is designed to guide an agent through the full arrangement workflow while keeping musical decisions, evidence, and limitations explicit.
 
-## Demo
+## Score previews
 
-[▶ Watch the lightweight preview](assets/demo-preview.mp4) · [Download the original recording](https://raw.githubusercontent.com/kiri603/To-Sheet-Music-Skill/main/assets/demo.mp4)
+These excerpts show representative bars from three generated five-piece arrangements. Each image is a lightweight PNG so it renders directly in GitHub's README view.
 
-The preview is intentionally compressed so it can be opened more reliably from GitHub's web interface. The original screen recording is kept available for download and can be replaced with a polished end-to-end example later.
+### Beyond — 海阔天空
+
+![Score excerpt from the Beyond arrangement of 海阔天空](assets/score-previews/beyond.png)
+
+### Koe — 声
+
+![Score excerpt from the Koe arrangement of 声](assets/score-previews/koe.png)
+
+### Haruhikage — 春日影
+
+![Score excerpt from the Haruhikage arrangement of 春日影](assets/score-previews/haruhikage.png)
 
 ## Contents
 
+- [Score previews](#score-previews)
 - [What it does](#what-it-does)
 - [Default instrumentation](#default-instrumentation)
 - [Workflow](#workflow)
@@ -168,8 +179,10 @@ Working files may also include `manifest.json`, separated WAV stems, analysis no
 ├── assets/
 │   ├── band-style.mss               # MuseScore page/style settings
 │   ├── band-template.mscx           # Empty five-part score template
-│   ├── demo-preview.mp4              # Lightweight README preview
-│   └── demo.mp4                     # Original workflow demonstration
+│   └── score-previews/               # Representative score excerpts
+│       ├── beyond.png
+│       ├── koe.png
+│       └── haruhikage.png
 ├── references/
 │   ├── arranging.md                 # Transcription and playability rules
 │   ├── notation-and-qa.md           # Score standards and acceptance checks
