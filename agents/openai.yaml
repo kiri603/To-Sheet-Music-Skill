@@ -1,0 +1,4 @@
+interface:
+  display_name: "音频转乐队总谱"
+  short_description: "免费分轨与扒谱，生成可演奏的校园乐队 MIDI、PDF 和 MSCZ 总谱"
+  default_prompt: "使用 $audio-to-band-score 将我提供的歌曲音频改编成校园乐队中级伴奏总谱，按默认编制自动分轨、校验，并交付 MIDI、PDF 和 MSCZ。"

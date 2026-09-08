@@ -1,0 +1,667 @@
+<?xml version='1.0' encoding='utf-8'?>
+<museScore version="4.0">
+  <Score>
+    <Style>
+      <pageWidth>8.26772</pageWidth>
+      <pageHeight>11.6919</pageHeight>
+      <pagePrintableWidth>7.37205</pagePrintableWidth>
+      <pageOddLeftMargin>0.447835</pageOddLeftMargin>
+      <pageEvenLeftMargin>0.447835</pageEvenLeftMargin>
+      <pageOddTopMargin>0.447835</pageOddTopMargin>
+      <pageOddBottomMargin>0.447835</pageOddBottomMargin>
+      <pageEvenTopMargin>0.447835</pageEvenTopMargin>
+      <pageEvenBottomMargin>0.447835</pageEvenBottomMargin>
+      <staffDistance>6.5</staffDistance>
+      <minSystemDistance>8.5</minSystemDistance>
+      <spatium>1.75</spatium>
+    </Style>
+    <Part id="1">
+      <Staff id="1">
+        <StaffType group="tablature">
+          <name>tab6StrCommon</name>
+          <lines>6</lines>
+          <lineDistance>1.5</lineDistance>
+          <durations>0</durations>
+          <durationFontName>MuseScore Tab Modern</durationFontName>
+          <durationFontSize>15</durationFontSize>
+          <durationFontY>0</durationFontY>
+          <fretUseTextStyle>1</fretUseTextStyle>
+          <fretTextStyle>tab_fret_number</fretTextStyle>
+          <linesThrough>0</linesThrough>
+          <minimStyle>1</minimStyle>
+          <onLines>1</onLines>
+          <showRests>1</showRests>
+          <stemsDown>1</stemsDown>
+          <stemsThrough>0</stemsThrough>
+          <upsideDown>0</upsideDown>
+          <showTabFingering>1</showTabFingering>
+          <useNumbers>1</useNumbers>
+        </StaffType>
+      </Staff>
+      <trackName>主音吉他</trackName>
+      <Instrument id="electric-guitar">
+        <longName>主音吉他</longName>
+        <shortName>Lead Gtr.</shortName>
+        <trackName>主音吉他</trackName>
+        <minPitchP>40</minPitchP>
+        <maxPitchP>88</maxPitchP>
+        <minPitchA>40</minPitchA>
+        <maxPitchA>86</maxPitchA>
+        <instrumentId>pluck.guitar.electric</instrumentId>
+        <clef>G8vb</clef>
+        <singleNoteDynamics>0</singleNoteDynamics>
+        <glissandoStyle>portamento</glissandoStyle>
+        <StringData>
+          <frets>24</frets>
+          <string>40</string>
+          <string>45</string>
+          <string>50</string>
+          <string>55</string>
+          <string>59</string>
+          <string>64</string>
+        </StringData>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+        </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+        </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+        </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+        </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+        </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+        </Articulation>
+        <Articulation name="sforzato">
+          <velocity>150</velocity>
+          <gateTime>100</gateTime>
+        </Articulation>
+        <Articulation name="sforzatoStaccato">
+          <velocity>150</velocity>
+          <gateTime>50</gateTime>
+        </Articulation>
+        <Articulation name="marcatoStaccato">
+          <velocity>120</velocity>
+          <gateTime>50</gateTime>
+        </Articulation>
+        <Articulation name="marcatoTenuto">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+        </Articulation>
+        <Channel name="open">
+          <program value="29" />
+          <controller ctrl="7" value="110" />
+          <controller ctrl="10" value="52" />
+          <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>0</midiChannel>
+        </Channel>
+        <Channel name="mute">
+          <program value="28" />
+          <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>1</midiChannel>
+        </Channel>
+        <Channel name="jazz">
+          <program value="26" />
+          <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>2</midiChannel>
+        </Channel>
+        <Channel name="harmonics">
+          <program value="31" />
+          <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>3</midiChannel>
+        </Channel>
+        <Channel name="distortion">
+          <program value="30" />
+          <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>4</midiChannel>
+        </Channel>
+        <Channel name="overdriven">
+          <program value="29" />
+          <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>5</midiChannel>
+        </Channel>
+      </Instrument>
+    </Part>
+    <Part id="2">
+      <Staff id="2">
+        <StaffType group="tablature">
+          <name>tab6StrCommon</name>
+          <lines>6</lines>
+          <lineDistance>1.5</lineDistance>
+          <durations>0</durations>
+          <durationFontName>MuseScore Tab Modern</durationFontName>
+          <durationFontSize>15</durationFontSize>
+          <durationFontY>0</durationFontY>
+          <fretUseTextStyle>1</fretUseTextStyle>
+          <fretTextStyle>tab_fret_number</fretTextStyle>
+          <linesThrough>0</linesThrough>
+          <minimStyle>1</minimStyle>
+          <onLines>1</onLines>
+          <showRests>1</showRests>
+          <stemsDown>1</stemsDown>
+          <stemsThrough>0</stemsThrough>
+          <upsideDown>0</upsideDown>
+          <showTabFingering>1</showTabFingering>
+          <useNumbers>1</useNumbers>
+        </StaffType>
+      </Staff>
+      <trackName>节奏吉他</trackName>
+      <Instrument id="electric-guitar">
+        <longName>节奏吉他</longName>
+        <shortName>Rhythm Gtr.</shortName>
+        <trackName>节奏吉他</trackName>
+        <minPitchP>40</minPitchP>
+        <maxPitchP>88</maxPitchP>
+        <minPitchA>40</minPitchA>
+        <maxPitchA>86</maxPitchA>
+        <instrumentId>pluck.guitar.electric</instrumentId>
+        <clef>G8vb</clef>
+        <singleNoteDynamics>0</singleNoteDynamics>
+        <glissandoStyle>portamento</glissandoStyle>
+        <StringData>
+          <frets>24</frets>
+          <string>40</string>
+          <string>45</string>
+          <string>50</string>
+          <string>55</string>
+          <string>59</string>
+          <string>64</string>
+        </StringData>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+        </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+        </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+        </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+        </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+        </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+        </Articulation>
+        <Articulation name="sforzato">
+          <velocity>150</velocity>
+          <gateTime>100</gateTime>
+        </Articulation>
+        <Articulation name="sforzatoStaccato">
+          <velocity>150</velocity>
+          <gateTime>50</gateTime>
+        </Articulation>
+        <Articulation name="marcatoStaccato">
+          <velocity>120</velocity>
+          <gateTime>50</gateTime>
+        </Articulation>
+        <Articulation name="marcatoTenuto">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+        </Articulation>
+        <Channel name="open">
+          <program value="30" />
+          <controller ctrl="7" value="86" />
+          <controller ctrl="10" value="77" />
+          <synti>Fluid</synti>
+          <midiPort>1</midiPort>
+          <midiChannel>1</midiChannel>
+        </Channel>
+        <Channel name="mute">
+          <program value="28" />
+          <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>6</midiChannel>
+        </Channel>
+        <Channel name="jazz">
+          <program value="26" />
+          <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>7</midiChannel>
+        </Channel>
+        <Channel name="harmonics">
+          <program value="31" />
+          <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>8</midiChannel>
+        </Channel>
+        <Channel name="distortion">
+          <program value="30" />
+          <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>10</midiChannel>
+        </Channel>
+        <Channel name="overdriven">
+          <program value="29" />
+          <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>11</midiChannel>
+        </Channel>
+      </Instrument>
+    </Part>
+    <Part id="3">
+      <Staff id="3">
+        <StaffType group="tablature">
+          <name>tab6StrCommon</name>
+          <lines>4</lines>
+          <lineDistance>1.5</lineDistance>
+          <durations>0</durations>
+          <durationFontName>MuseScore Tab Modern</durationFontName>
+          <durationFontSize>15</durationFontSize>
+          <durationFontY>0</durationFontY>
+          <fretUseTextStyle>1</fretUseTextStyle>
+          <fretTextStyle>tab_fret_number</fretTextStyle>
+          <linesThrough>0</linesThrough>
+          <minimStyle>1</minimStyle>
+          <onLines>1</onLines>
+          <showRests>1</showRests>
+          <stemsDown>1</stemsDown>
+          <stemsThrough>0</stemsThrough>
+          <upsideDown>0</upsideDown>
+          <showTabFingering>1</showTabFingering>
+          <useNumbers>1</useNumbers>
+        </StaffType>
+      </Staff>
+      <trackName>贝斯</trackName>
+      <Instrument id="electric-bass">
+        <longName>贝斯</longName>
+        <shortName>Bass</shortName>
+        <trackName>贝斯</trackName>
+        <minPitchP>28</minPitchP>
+        <maxPitchP>67</maxPitchP>
+        <minPitchA>28</minPitchA>
+        <maxPitchA>65</maxPitchA>
+        <instrumentId>pluck.bass.electric</instrumentId>
+        <concertClef>F8vb</concertClef>
+        <transposingClef>F</transposingClef>
+        <singleNoteDynamics>0</singleNoteDynamics>
+        <glissandoStyle>portamento</glissandoStyle>
+        <StringData>
+          <frets>24</frets>
+          <string>28</string>
+          <string>33</string>
+          <string>38</string>
+          <string>43</string>
+        </StringData>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+        </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+        </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+        </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+        </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+        </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+        </Articulation>
+        <Articulation name="sforzato">
+          <velocity>150</velocity>
+          <gateTime>100</gateTime>
+        </Articulation>
+        <Articulation name="sforzatoStaccato">
+          <velocity>150</velocity>
+          <gateTime>50</gateTime>
+        </Articulation>
+        <Articulation name="marcatoStaccato">
+          <velocity>120</velocity>
+          <gateTime>50</gateTime>
+        </Articulation>
+        <Articulation name="marcatoTenuto">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+        </Articulation>
+        <Channel>
+          <program value="33" />
+          <controller ctrl="7" value="104" />
+          <controller ctrl="10" value="63" />
+          <synti>Fluid</synti>
+          <midiPort>1</midiPort>
+          <midiChannel>2</midiChannel>
+        </Channel>
+        <Channel name="slap">
+          <program value="36" />
+          <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>12</midiChannel>
+        </Channel>
+        <Channel name="pop">
+          <program value="37" />
+          <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>13</midiChannel>
+        </Channel>
+      </Instrument>
+    </Part>
+    <Part id="4">
+      <Staff id="4">
+        <StaffType group="pitched">
+          <name>stdNormal</name>
+        </StaffType>
+        <bracket type="1" span="2" col="1" visible="1" />
+        <barLineSpan>1</barLineSpan>
+      </Staff>
+      <Staff id="5">
+        <StaffType group="pitched">
+          <name>stdNormal</name>
+        </StaffType>
+      </Staff>
+      <trackName>键盘</trackName>
+      <Instrument id="piano">
+        <longName>键盘</longName>
+        <shortName>Keys</shortName>
+        <trackName>键盘</trackName>
+        <minPitchP>21</minPitchP>
+        <maxPitchP>108</maxPitchP>
+        <minPitchA>21</minPitchA>
+        <maxPitchA>108</maxPitchA>
+        <instrumentId>keyboard.piano</instrumentId>
+        <clef staff="2">F</clef>
+        <singleNoteDynamics>0</singleNoteDynamics>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>95</gateTime>
+        </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+        </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+        </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+        </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+        </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+        </Articulation>
+        <Articulation name="sforzato">
+          <velocity>150</velocity>
+          <gateTime>100</gateTime>
+        </Articulation>
+        <Articulation name="sforzatoStaccato">
+          <velocity>150</velocity>
+          <gateTime>50</gateTime>
+        </Articulation>
+        <Articulation name="marcatoStaccato">
+          <velocity>120</velocity>
+          <gateTime>50</gateTime>
+        </Articulation>
+        <Articulation name="marcatoTenuto">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+        </Articulation>
+        <Channel>
+          <program value="0" />
+          <controller ctrl="7" value="95" />
+          <controller ctrl="10" value="57" />
+          <synti>Fluid</synti>
+          <midiPort>1</midiPort>
+          <midiChannel>3</midiChannel>
+        </Channel>
+      </Instrument>
+    </Part>
+    <Part id="5">
+      <Staff id="6">
+        <StaffType group="percussion">
+          <name>perc5Line</name>
+          <keysig>0</keysig>
+        </StaffType>
+      </Staff>
+      <trackName>鼓</trackName>
+      <Instrument id="drumset">
+        <longName>鼓</longName>
+        <shortName>Drums</shortName>
+        <trackName>Drumset</trackName>
+        <instrumentId>drum.group.set</instrumentId>
+        <useDrumset>1</useDrumset>
+        <percussionPanelColumns>8</percussionPanelColumns>
+        <Drum pitch="36">
+          <head>normal</head>
+          <line>7</line>
+          <voice>0</voice>
+          <name>Drumset</name>
+          <stem>1</stem>
+        </Drum>
+        <Drum pitch="38">
+          <head>normal</head>
+          <line>3</line>
+          <voice>0</voice>
+          <name>Snare</name>
+          <stem>1</stem>
+        </Drum>
+        <Drum pitch="42">
+          <head>cross</head>
+          <line>-1</line>
+          <voice>0</voice>
+          <name>Closed Hi-Hat</name>
+          <stem>1</stem>
+        </Drum>
+        <Drum pitch="46">
+          <head>cross</head>
+          <line>-1</line>
+          <voice>0</voice>
+          <name>Open Hi-Hat</name>
+          <stem>1</stem>
+        </Drum>
+        <Drum pitch="49">
+          <head>normal</head>
+          <line>0</line>
+          <voice>0</voice>
+          <name>Crash Cymbal</name>
+          <stem>0</stem>
+        </Drum>
+        <clef>PERC</clef>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+        </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+        </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+        </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+        </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+        </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+        </Articulation>
+        <Articulation name="sforzato">
+          <velocity>150</velocity>
+          <gateTime>100</gateTime>
+        </Articulation>
+        <Articulation name="sforzatoStaccato">
+          <velocity>150</velocity>
+          <gateTime>50</gateTime>
+        </Articulation>
+        <Articulation name="marcatoStaccato">
+          <velocity>120</velocity>
+          <gateTime>50</gateTime>
+        </Articulation>
+        <Articulation name="marcatoTenuto">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+        </Articulation>
+        <Channel>
+          <controller ctrl="0" value="1" />
+          <controller ctrl="32" value="0" />
+          <program value="0" />
+          <controller ctrl="7" value="95" />
+          <controller ctrl="10" value="66" />
+          <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>9</midiChannel>
+        </Channel>
+      </Instrument>
+    </Part>
+    <Staff id="1">
+      <VBox>
+        <Text>
+          <style>title</style>
+          <text>乐队总谱</text>
+        </Text>
+      </VBox>
+      <Measure>
+        <voice>
+          <Clef>
+            <concertClefType>TAB</concertClefType>
+            <transposingClefType>TAB</transposingClefType>
+          </Clef>
+          <TimeSig>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+          </TimeSig>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>1/1</duration>
+          </Rest>
+        </voice>
+      </Measure>
+    </Staff>
+    <Staff id="2">
+      <Measure>
+        <voice>
+          <Clef>
+            <concertClefType>TAB</concertClefType>
+            <transposingClefType>TAB</transposingClefType>
+          </Clef>
+          <TimeSig>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+          </TimeSig>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>1/1</duration>
+          </Rest>
+        </voice>
+      </Measure>
+    </Staff>
+    <Staff id="3">
+      <Measure>
+        <voice>
+          <Clef>
+            <concertClefType>TAB</concertClefType>
+            <transposingClefType>TAB</transposingClefType>
+          </Clef>
+          <TimeSig>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+          </TimeSig>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>1/1</duration>
+          </Rest>
+        </voice>
+      </Measure>
+    </Staff>
+    <Staff id="4">
+      <Measure>
+        <voice>
+          <Clef>
+            <concertClefType>G</concertClefType>
+            <transposingClefType>G</transposingClefType>
+          </Clef>
+          <TimeSig>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+          </TimeSig>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>1/1</duration>
+          </Rest>
+        </voice>
+      </Measure>
+    </Staff>
+    <Staff id="5">
+      <Measure>
+        <voice>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+          </Clef>
+          <TimeSig>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+          </TimeSig>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>1/1</duration>
+          </Rest>
+        </voice>
+      </Measure>
+    </Staff>
+    <Staff id="6">
+      <Measure>
+        <voice>
+          <Clef>
+            <concertClefType>PERC</concertClefType>
+            <transposingClefType>PERC</transposingClefType>
+          </Clef>
+          <TimeSig>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+          </TimeSig>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>1/1</duration>
+          </Rest>
+        </voice>
+      </Measure>
+    </Staff>
+  </Score>
+</museScore>
