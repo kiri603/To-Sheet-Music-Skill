@@ -26,9 +26,14 @@ These excerpts show representative bars from three generated five-piece arrangem
 
 ![Score excerpt from the Haruhikage arrangement of 春日影](assets/score-previews/haruhikage.png)
 
+## Introduction video
+
+[▶ Watch the project introduction on Bilibili](https://www.bilibili.com/video/BV176b56VEN3/?vd_source=2620b2603c03718cf25e33b2e0d30995#reply117234387130258)
+
 ## Contents
 
 - [Score previews](#score-previews)
+- [Introduction video](#introduction-video)
 - [What it does](#what-it-does)
 - [Default instrumentation](#default-instrumentation)
 - [Workflow](#workflow)
