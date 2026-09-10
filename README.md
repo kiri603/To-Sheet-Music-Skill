@@ -10,6 +10,8 @@ It combines time-aligned source separation, musical analysis, practical arrangin
 > [!NOTE]
 > This is an agent skill, not a standalone desktop application. It is designed to guide an agent through the full arrangement workflow while keeping musical decisions, evidence, and limitations explicit.
 
+本项目认可并支持 [LINUX DO 社区](https://linux.do/)。
+
 ## Score previews
 
 These excerpts show representative bars from three generated five-piece arrangements. Each image is a lightweight PNG so it renders directly in GitHub's README view.
